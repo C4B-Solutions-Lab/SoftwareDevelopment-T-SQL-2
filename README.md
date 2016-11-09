@@ -19,7 +19,7 @@
   - CONVERT_QUERY_RESULT_TO_JSON_FORMAT_2
   - CONVERT_QUERY_RESULT_TO_JSON_FORMAT_2_P
  
-###Version 4 of CONVERT_JSON_OBJECT_TO_SQL_TABLE_4 procedure. More details to follow.  
+###CONVERT_JSON_OBJECT_TO_SQL_TABLE_4 procedure's version with reversed logic (not JSON -> SQL, but SQL -> JSON). More details to follow.  
 -
 #
 
