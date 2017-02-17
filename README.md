@@ -1,11 +1,11 @@
 <img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/github_json2sql.png" />
 # Dabrowski Software Development [ T-SQL ]
 # SQL2JSON&nbsp;&nbsp;&nbsp;&nbsp;:hash::four:
-# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry_sign::lock:
-# <strong>PREVIEW - vGamma</strong> [ :new: :arrow_right: ~ :clock2: ]
+# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock:
+# <strong>PREVIEW - vGamma</strong> [ :new: :arrow_right: ~ :clock2: ]&nbsp;[ right click/Save as... &nbsp;&nbsp;[:floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL/blob/master/SQL2JSON_vGamma.mp4))]:arrow_heading_down:
 #
 # 
-##<strong>This is the very first working preview version γάμμα [gamma]</strong>
+##<strong>This is the very first working (with bugs) preview version γάμμα [gamma]</strong>
 ##<strong>The next preview version will be βῆτα [beta]</strong>
 ##<strong>The step behind preview release version will be ἄλφα [alpha]</strong>
 ### <strong>UPLOADED 2017-02-17 13:20:00 GMT +01:00</strong>
