@@ -7,7 +7,7 @@
 # 
 ##<strong>This is the very first working preview version γάμμα [gamma]</strong>
 ##<strong>The next preview version will be βῆτα [beta]</strong>
-##<strong>The step behind release version will be ἄλφα [alpha]</strong>
+##<strong>The step behind preview release version will be ἄλφα [alpha]</strong>
 ### <strong>UPLOADED 2017-02-17 13:20:00 GMT +01:00</strong>
 
 #
