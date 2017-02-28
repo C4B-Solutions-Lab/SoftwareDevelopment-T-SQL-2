@@ -1,8 +1,8 @@
 <img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL-2/blob/master/github_json2sql.png" />
 # Dabrowski Software Development [ T-SQL ]
 # SQL2JSON&nbsp;&nbsp;&nbsp;&nbsp;:hash::four:
-# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock:
-# <strong>PREVIEW - vGamma</strong> [ :new: :arrow_right: ~ :clock2: ]&nbsp;[ just click FDD 1.44 &nbsp;&nbsp;[:floppy_disk: ](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL-2/blob/master/SQL2JSON_vGamma.mp4))]:arrow_heading_down:
+# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:
+# <strong>PREVIEW - vAlpha</strong> [ :new: :arrow_right: ~ :clock12: ]&nbsp;[ just click FDD 1.44 &nbsp;&nbsp;[:floppy_disk: ]:arrow_heading_down:
 #
 # 
 ##<strong>This is the very first working (with bugs) preview version γάμμα [gamma]</strong>
