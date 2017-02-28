@@ -5,9 +5,9 @@
 # <strong>PREVIEW - vAlpha</strong> [ :new: :arrow_right: ~ :clock12: ]&nbsp;[ just click FDD 1.44 &nbsp;&nbsp;[:floppy_disk: ]:arrow_heading_down:
 #
 # 
-##<strong>This is the very first working (with bugs) preview version γάμμα [gamma]</strong>
-##<strong>Preview version βῆτα [beta] is skipped. Next preview version (2017-02-28) will be ἄλφα [alpha]</strong>
-### <strong>LAST UPDATED 2017-02-23 10:26:00 GMT +01:00</strong>
+##<strong>This is the second working preview version ἄλφα [alpha]</strong>
+##<strong>Next version will be full working v4</strong>
+### <strong>LAST UPDATED 2017-02-28 07:08:00 GMT +01:00</strong>
 
 #
 #
