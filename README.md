@@ -1,13 +1,12 @@
 <img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL-2/blob/master/github_json2sql.png" />
 # Dabrowski Software Development [ T-SQL ]
 # SQL2JSON&nbsp;&nbsp;&nbsp;&nbsp;:hash::four:
-# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock:
-# <strong>PREVIEW - vAlpha</strong> [ :new: :arrow_right: ~ :clock12: ]&nbsp; just click FDD 1.44 &nbsp;&nbsp;[&nbsp;[:floppy_disk:](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL-2/blob/master/SQL2JSON___vAlpha.mp4)&nbsp;]&nbsp;:arrow_heading_down:
+# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:
+# <strong>v4</strong> [ :new: :arrow_right: ~ :clock12: ]&nbsp; just click FDD 1.44 &nbsp;[:floppy_disk:]&nbsp;:arrow_heading_down:
 #
 # 
-##<strong>This is the second working preview version ἄλφα [alpha]</strong>
-##<strong>Next version will be full working v4</strong>
-### <strong>LAST UPDATED 2017-02-28 11:53:00 GMT +01:00</strong>
+##<strong>Incoming release version v4 scheduled for 04-04-2017</strong>
+### <strong>LAST UPDATED 2017-02-28 10:10:00 GMT +01:00</strong>
 
 #
 #
