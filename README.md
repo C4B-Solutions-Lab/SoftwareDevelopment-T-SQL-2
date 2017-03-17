@@ -2,11 +2,11 @@
 # Dabrowski Software Development [ T-SQL ]
 # SQL2JSON&nbsp;&nbsp;&nbsp;:hash::four:
 # Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:
-# <strong>v4</strong> [ :new: :arrow_right: ~ :clock12: ]&nbsp; just click FDD 1.44 &nbsp;[:floppy_disk:]&nbsp;:arrow_heading_down:
+# <strong>v4 RC</strong> [ :new: :arrow_right: ~ :clock5: ]&nbsp; just click FDD 1.44 &nbsp;[:floppy_disk:]&nbsp;:arrow_heading_down:
 #
 # 
 ## <strong>Incoming release version v4 scheduled for 04-04-2017</strong><br />
-### <strong>LAST UPDATED 2017-02-28 10:10:00 GMT +01:00</strong>
+### <strong>LAST UPDATED 2017-03-17 16:35:00 GMT +01:00</strong>
 
 #
 #
