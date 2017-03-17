@@ -5,7 +5,7 @@
 # <strong>v4</strong> [ :new: :arrow_right: ~ :clock12: ]&nbsp; just click FDD 1.44 &nbsp;[:floppy_disk:]&nbsp;:arrow_heading_down:
 #
 # 
-##<strong>Incoming release version v4 scheduled for 04-04-2017</strong><br />
+## <strong>Incoming release version v4 scheduled for 04-04-2017</strong><br />
 ### <strong>LAST UPDATED 2017-02-28 10:10:00 GMT +01:00</strong>
 
 #
