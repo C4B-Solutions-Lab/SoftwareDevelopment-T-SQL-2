@@ -24,7 +24,7 @@
 #
 #
 #
-# <strong>LAST MODIFIED: 2017-03-18 10:26:00 GMT +01:00</strong>
+# <strong>LAST MODIFIED: 2017-03-18 10:57:00 GMT +01:00</strong>
 #
 #
 #
@@ -42,7 +42,7 @@
 #
 #
 # This description:
- - JSON2SQL, SQL2JSON and bunch of useful funcs along the way
+ - SQL2JSON and bunch of useful funcs along the way
 
 #
 # This algorithm:
