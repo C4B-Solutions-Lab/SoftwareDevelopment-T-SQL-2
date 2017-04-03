@@ -4,9 +4,15 @@
 #
 #
 # Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:
-# <strong>v4</strong> [ 04-04-2017 21:30:00 GMT +01:00 ]&nbsp;
+# <strong>v4</strong> [ 04-04-2017 21:30:00 GMT +01:00 ]
+## SSMS installer (the same as for JSON2SQL) : OLD WAY &nbsp;[&nbsp;:floppy_disk:&nbsp;]&nbsp;
+## WPF GUI-based installer (JSON2SQL, SQL2JSON) : NEW WAY &nbsp;[&nbsp;:floppy_disk:&nbsp;]&nbsp;
+ - safe & fully automated database installation/uninstallation tool for both algorithms
+ - no manual work required
+ - no opening anything in SSMS any more
+ - just 6 clicks and SQL scripts are installed into database :smiley:
 #
-### <strong>LAST UPDATED 2017-03-18 10:18:00 GMT +01:00</strong>
+### <strong>LAST UPDATED 2017-04-03 16:04:00 GMT +01:00</strong>
 #
 #
 #
@@ -24,7 +30,7 @@
 #
 #
 #
-# <strong>LAST MODIFIED: 2017-03-18 10:57:00 GMT +01:00</strong>
+# <strong>LAST MODIFIED: 2017-04-03 16:04:00 GMT +01:00</strong>
 #
 #
 #
