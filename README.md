@@ -3,16 +3,20 @@
 # SQL2JSON&nbsp;&nbsp;&nbsp;:hash::four:
 #
 #
-# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:
-# <strong>v4</strong> [ 04-04-2017 21:30:00 GMT +01:00 ]
-## SSMS installer (the same as for JSON2SQL) : OLD WAY &nbsp;[&nbsp;:floppy_disk:&nbsp;]&nbsp;
-## WPF GUI-based installer (JSON2SQL, SQL2JSON) : NEW WAY &nbsp;[&nbsp;:floppy_disk:&nbsp;]&nbsp;
+# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock:
+# <strong>v4</strong> [ released ]
+## SSMS installer (the same as for JSON2SQL) : OLD WAY &nbsp;[&nbsp;[:floppy_disk:](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL-2/blob/master/Dabrowski-Software-Development[vCurrent][v4][04-04-2017].zip)&nbsp;]&nbsp;:arrow_heading_down:
+## WPF GUI-based installer (JSON2SQL, SQL2JSON) : NEW WAY &nbsp;[&nbsp;[:floppy_disk:](https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL-2/blob/master/WPF_Installer.zip)&nbsp;]&nbsp;:arrow_heading_down:
  - safe & fully automated database installation/uninstallation tool for both algorithms
  - no manual work required
  - no opening anything in SSMS any more
- - just 6 clicks and SQL scripts are installed into database :smiley:
+ - just 6 clicks and SQL scripts are installed into database
+ - tested against LOCAL COMPUTER running SQL Server (2008 - 2014)
+### Limitations regarding WPF installer:
+ - if you f.e. install JSON2SQL (Install button), then SQL2JSON you have to reinstall (Reinstall button) and vice versa due to sharing some common functions.
+ - this limitation will be fixed soon.
 #
-### <strong>LAST UPDATED 2017-04-03 16:04:00 GMT +01:00</strong>
+### <strong>LAST UPDATED 2017-04-04 21:50:00 GMT +01:00</strong>
 #
 #
 #
@@ -30,7 +34,7 @@
 #
 #
 #
-# <strong>LAST MODIFIED: 2017-04-03 16:04:00 GMT +01:00</strong>
+# <strong>LAST MODIFIED: 2017-04-04 21:50:00 GMT +01:00</strong>
 #
 #
 #
@@ -57,7 +61,7 @@
 
 #
 # This source code:
-  - will work from SQL Server 2008 to SQL Server 2014
+  - works from SQL Server 2008 to SQL Server 2014
 
 #
 # This email:
