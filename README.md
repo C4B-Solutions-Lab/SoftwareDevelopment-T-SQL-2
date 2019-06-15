@@ -1,6 +1,6 @@
 <img src="https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL-2/blob/master/C4B_Solutions_Lab.png"></img>
 # Language:&nbsp;T-SQL
-# Name:&nbsp;SQL2JSON&nbsp;:hash::four:
+# Name:&nbsp;SQL 2 JSON&nbsp;:hash::four:
 # Availability:&nbsp;:heavy_check_mark::unlock:
 # Status:&nbsp;<strong>v4</strong> [ released ]
 #
