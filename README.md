@@ -27,14 +27,15 @@
 # This algorithm:
   - can be downloaded free of charge and be distributed,
   - further modified and used for commercial gain according to MIT licence :-) 
-#
+
 # This source code:
-  - works from SQL Server 2008 to SQL Server 2014
-#
+  - works from SQL Server 2008 to SQL Server 2014 where there is no native JSON support
+  
 # This email:
-  - :email:&nbsp;lukkasz.dabrowski@gmail.com - is for yor feedback (NEGATIVE/positive)
-#
+  - :email:&nbsp;email.c4b.solutions.lab@gmail.com - is for your feedback (NEGATIVE/positive)
+  
 # This license: [MIT]:
  - :free:&nbsp;:book:&nbsp;**[http://www.opensource.org/licenses/mit-license.php]()**
+
 #
-# <strong>LAST MODIFIED: 2017-05-25 14:02:00 GMT +00:00</strong>
+# <strong>LAST MODIFIED: 2019-06-16 17:07:00 GMT +00:00</strong>
