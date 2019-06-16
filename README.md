@@ -17,13 +17,6 @@
  - if you f.e. install JSON2SQL (Install button), then SQL2JSON you have to reinstall (Reinstall button) and vice versa due to sharing some common functions.
  - this limitation will be fixed soon.
 #
-#
-# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock:
-# <strong>v4 RC Preview</strong> [ released ]&nbsp; just click FDD 1.44 &nbsp;&nbsp;[&nbsp;[:floppy_disk:](https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL-2/blob/master/SQL2JSON___v4___RC.mp4)&nbsp;]&nbsp;:arrow_heading_down:
-#
-# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock:
-# <strong>v4 Alpha Preview</strong> [ released ]&nbsp; just click FDD 1.44 &nbsp;&nbsp;[&nbsp;[:floppy_disk:](https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL-2/blob/master/SQL2JSON___vAlpha.mp4)&nbsp;]&nbsp;:arrow_heading_down:
-#
 # This algorithm:
   - can be downloaded free of charge and be distributed,
   - further modified and used for commercial gain according to MIT licence :-) 
