@@ -4,8 +4,9 @@
 # Availability:&nbsp;:heavy_check_mark::unlock:
 # Status:&nbsp;<strong>v4</strong> [ released ]
 #
-## SSMS installer (the same as for JSON2SQL) : OLD WAY &nbsp;[&nbsp;[:floppy_disk:](https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL-2/blob/master/Dabrowski-Software-Development[vCurrent][v4][04-04-2017].zip)&nbsp;]&nbsp;:arrow_heading_down:
-## WPF GUI-based installer (JSON2SQL, SQL2JSON) : NEW WAY &nbsp;[&nbsp;[:floppy_disk:](https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL-2/blob/master/WPF_Installer.zip)&nbsp;]&nbsp;:arrow_heading_down:
+# Download:
+ - SSMS installer (the same as for JSON2SQL) : OLD WAY &nbsp;[&nbsp;[:floppy_disk:](https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL-2/blob/master/Dabrowski-Software-Development[vCurrent][v4][04-04-2017].zip)&nbsp;]&nbsp;:arrow_heading_down:
+ - WPF GUI-based installer (JSON2SQL, SQL2JSON) : NEW WAY &nbsp;[&nbsp;[:floppy_disk:](https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL-2/blob/master/WPF_Installer.zip)&nbsp;]&nbsp;:arrow_heading_down:
 #
 # Description:
  - safe & fully automated database installation/uninstallation tool for both algorithms
@@ -13,9 +14,9 @@
  - no opening anything in SSMS any more
  - just 6 clicks and SQL scripts are installed into database
  - tested against LOCAL COMPUTER running SQL Server (2008 - 2014)
-# Limitations regarding WPF installer:
- - if you f.e. install JSON2SQL (Install button), then SQL2JSON you have to reinstall (Reinstall button) and vice versa due to sharing some common functions.
- - this limitation will be fixed soon.
+ - Limitations regarding WPF installer:
+   - if you f.e. install JSON2SQL (Install button), then SQL2JSON you have to reinstall (Reinstall button) and vice versa due to sharing some common functions.
+    - this limitation fix is postponed.
 #
 # This algorithm:
   - can be downloaded free of charge and be distributed,
@@ -31,4 +32,4 @@
  - :free:&nbsp;:book:&nbsp;**[http://www.opensource.org/licenses/mit-license.php]()**
 
 #
-# <strong>LAST MODIFIED: 2019-06-16 17:08:00 GMT +00:00</strong>
+# <strong>LAST MODIFIED: 2019-06-17 06:08:00 GMT +00:00</strong>
